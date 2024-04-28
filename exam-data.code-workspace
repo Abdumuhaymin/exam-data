@@ -1,0 +1,20 @@
+{
+  "folders": [
+	{
+		"name": "exam-data",
+		"path": "."
+	},
+	{
+		"name": ".github",
+		"path": "D:/json-server-vercel-main/.github"
+	},
+	{
+		"name": "api",
+		"path": "D:/json-server-vercel-main/api"
+	},
+	{
+		"path": "D:/json-server-vercel-main/node_modules"
+	}
+],
+  "settings": {}
+}
