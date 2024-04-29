@@ -430,6 +430,30 @@
       "discount": "0",
       "color": "White",
       "description": "Apple USB-C Power Adapter A2344"
+    },
+    {
+      "id": 38,
+      "title": "Huawei",
+      "type": "banners",
+      "img": "https://mini-io-api.texnomart.uz/newcontent/slider/90/831z1PK1LbyKwpWuMCDACrQrijitSk2GlKFlo2a4.webp"
+    },
+    {
+      "id": 39,
+      "title": "Xiaomi",
+      "type": "banners",
+      "img": "https://mini-io-api.texnomart.uz/newcontent/slider/103/0MZzYBlC8q7gHtiCBMcdDgsSGzqMyxho4hxlBrYl.webp"
+    },
+    {
+      "id": 40,
+      "title": "Samsung",
+      "type": "banners",
+      "img": "https://olcha.uz/image/original/sliders/ru/cdn_1/2024-03-25/PlbK8WbNCIIuNRZqnBzYOjJ2HRQL0kxfEnEk2HgqXoRPZNPIEGMyAsI1qTJG.png"
+    },
+    {
+      "id": 41,
+      "title": "Huawei",
+      "type": "banners",
+      "img": "https://minio.alifnasiya.uz/shop/catalog/carousel/196/1707476026-1600491_x8b.png"
     }
   ],
   "phones": [
@@ -874,6 +898,32 @@
       "discount": "0",
       "color": "White",
       "description": "Apple USB-C Power Adapter A2344"
+    }
+  ],
+  "banners": [
+    {
+      "id": 38,
+      "title": "Huawei",
+      "type": "banners",
+      "img": "https://mini-io-api.texnomart.uz/newcontent/slider/90/831z1PK1LbyKwpWuMCDACrQrijitSk2GlKFlo2a4.webp"
+    },
+    {
+      "id": 39,
+      "title": "Xiaomi",
+      "type": "banners",
+      "img": "https://mini-io-api.texnomart.uz/newcontent/slider/103/0MZzYBlC8q7gHtiCBMcdDgsSGzqMyxho4hxlBrYl.webp"
+    },
+    {
+      "id": 40,
+      "title": "Samsung",
+      "type": "banners",
+      "img": "https://olcha.uz/image/original/sliders/ru/cdn_1/2024-03-25/PlbK8WbNCIIuNRZqnBzYOjJ2HRQL0kxfEnEk2HgqXoRPZNPIEGMyAsI1qTJG.png"
+    },
+    {
+      "id": 41,
+      "title": "Huawei",
+      "type": "banners",
+      "img": "https://minio.alifnasiya.uz/shop/catalog/carousel/196/1707476026-1600491_x8b.png"
     }
   ]
 }
